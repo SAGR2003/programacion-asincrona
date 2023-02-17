@@ -1,4 +1,4 @@
-# programacion-asincrona
+# Programación asíncrona
 
 <h1>Problema 1: que debe resolverse con un hilo independiente en el cual no espera respuesta: (hiloindependiente)</h1>
 Suponga que se quiere simular un examen parcial en la plataforma virtual Sabana, en el cual los estudiantes deben responder diferentes preguntas de manera aleatoria. Para llevar a cabo esta simulación, se ha decidido crear un hilo independiente que actualice la pregunta que se encuentra resolviendo cada estudiante en un intervalo de tiempo de 5 segundos. Dado que el hilo no espera ninguna respuesta, la aplicación seguirá ejecutándose mientras los estudiantes continúan respondiendo a las preguntas en un "segundo plano".
